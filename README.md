@@ -1,4 +1,4 @@
-# Reseachtools
+# Researchtools
 Based on Mr Kurt Schwehr's  excellent Research Tools course from UNH.
 https://github.com/schwehr?tab=repositories
 
